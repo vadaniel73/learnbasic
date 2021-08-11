@@ -5,3 +5,5 @@ The main terms are pull and push which referfs to the interaction between the se
 Pull downloads all the files from the remote server and the chages are stored both in locally and in server 
 
 To clone the repository from remote to local you have to clone by using giitbash installed in the system and  get the link from the git hub site and type "git clone https://... "
+
+To get status of the updation type "git status" 
