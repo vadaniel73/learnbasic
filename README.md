@@ -6,4 +6,11 @@ Pull downloads all the files from the remote server and the chages are stored bo
 
 To clone the repository from remote to local you have to clone by using giitbash installed in the system and  get the link from the git hub site and type "git clone https://... "
 
-To get status of the updation type "git status" 
+To get status of the update type "git status"
+
+After creating a file you have to add it to the staging area which is done by "git add <filename>"
+
+After adding we have to commit the file "git commit -m "This is jus a text will show while commiting""""
+
+THis has to folowed by pushing the files to remote repository "git push"
+
