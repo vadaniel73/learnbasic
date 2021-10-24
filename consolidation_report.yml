@@ -1,0 +1,24 @@
+- first
+- apps_count: 12
+  environment: PROD
+  platform: SAML20
+- first
+- apps_count: 32
+  environment: STG
+  platform: SAML20
+- first
+- apps_count: 13
+  environment: PROD
+  platform: RP
+- first
+- apps_count: 42
+  environment: STG
+  platform: RP
+- first
+- apps_count: 56
+  environment: PROD
+  platform: OAuth
+- first
+- apps_count: 65
+  environment: STG
+  platform: OAuth
